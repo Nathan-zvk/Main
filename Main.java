@@ -5,7 +5,7 @@ public class Main{
     }
 
     private void afficher(){
-        System.out.println(this.valeur+"cool");
+        System.out.println(this.valeur+"codddd");
     }
 
     public void main(String[] args){
